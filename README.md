@@ -28,7 +28,7 @@ You can now finish forging by performing the highlighted actions in reverse (tho
 
 This resource pack is a derivative of [Anvil GUI](https://www.curseforge.com/minecraft/texture-packs/tfc-anvil-helper) by Simon, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-## Changes made by Vizzy
+## Changes made
 
 - Corrected the hit indicators for 3, 6, 19, and 22 hits in the anvil GUI texture.
 
