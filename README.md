@@ -12,7 +12,7 @@ Check where the current red arrow is (in this case, 43, since each pixel counts 
 
 Subtract the red arrow value by the sum of the last three required actions highlighted in orange at the top (treating "Any Hit" as a Light Hit or -3, results in a total of -9). In this example, it would be `43 - (-3 - 3 - 3) = 43 - (-9) = 52`. This value of `52` is where you want to place your green arrow.
 
-Using the pixel guides, count the colors of the pixels and press the action corresponding to each color that many times. In this case: 2 Shrinks (Red) and 3 Bends (Yellow).
+Using the pixel guides, count the colors of the pixels and press the action corresponding to each color that many times. In this case: 2 Shrinks (Red), 1 Upset (Orange), and 1 Bend (Yellow).
 
 ![prepping.png](images/prepping.png)
 
